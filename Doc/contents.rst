@@ -18,6 +18,7 @@
    glossary.rst
 
    about.rst
+   architecture_overview.rst
    bugs.rst
    copyright.rst
    license.rst
